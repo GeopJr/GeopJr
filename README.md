@@ -3,7 +3,7 @@
   <a href="https://crystal-lang.org/"><img alt="Crystal" src="https://img.shields.io/badge/Language-Crystal-%23000.svg">
   <a href="https://github.com/GeopJr?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/GeopJr?label=Follow&logo=github"></a>
   <a href="https://twitter.com/Geop_Junior"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Geop_Junior?label=Follow&logo=Twitter"></a><br>
-  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=GeopJr.GeopJr">
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=GeopJr.GeopJr"><br>
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
 </p>
 <!--
