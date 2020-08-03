@@ -27,11 +27,11 @@ GeopJr = {name:      "Vagelis",
 
 ## 🤹 Recent Activity
 ```
-<!--GITHUB_ACTIVITY:{"rows": 4, "exclude": ["ForkEvent"]}-->
+<!--GITHUB_ACTIVITY:{"rows": 4, "exclude": ["ForkEvent"], "raw": true}-->
 ```
 ## 🌟 Cool Repos
 ```
-<!--GITHUB_REPOS:{"rows": 4}-->
+<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
 ```
 ------------
 <p align="center">
