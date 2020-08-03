@@ -7,21 +7,22 @@
 </p>
 
 ```crystal
-GeopJr = {name:      "Vagelis",
-          pronouns:  "he/him",
-          languages: ["C", "Crystal", "Elixir", "HTML", "JavaScript", "Obj-C", "PHP", "Ruby"],
-          website:   "https://geopjr.xyz/",
-          social:    {
-            discord:  "『Geop』#4066",
-            keybase:  "keybase.io/geopjr",
-            mastodon: "@GeopJr@tech.lgbt",
-            matrix:   "@geopjr:matrix.org",
-            email:    "geopjr@geopjr.xyz",
-            session:  "058cf74db0d91a2815a7f4be691f62827703501a3a78898a1cacd0916ff16f383f",
-            steam:    "steamcommunity.com/id/geopjunior",
-            telegram: "@GeopJr",
-            twitter:  "@Geop_Junior",
-          },
+GeopJr = {
+  name:      "Vagelis",
+  pronouns:  "he/him",
+  languages: ["C", "Crystal", "Elixir", "HTML", "JavaScript", "Obj-C", "PHP", "Ruby"],
+  website:   "https://geopjr.xyz/",
+  social:    {
+    discord:  "『Geop』#4066",
+    keybase:  "keybase.io/geopjr",
+    mastodon: "@GeopJr@tech.lgbt",
+    matrix:   "@geopjr:matrix.org",
+    email:    "geopjr@geopjr.xyz",
+    session:  "058cf74db0d91a2815a7f4be691f62827703501a3a78898a1cacd0916ff16f383f",
+    steam:    "steamcommunity.com/id/geopjunior",
+    telegram: "@GeopJr",
+    twitter:  "@Geop_Junior",
+  },
 }
 ```
 
@@ -42,7 +43,7 @@ GeopJr = {name:      "Vagelis",
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-03T15:24:28Z</b>
+  <b>2020-08-03T15:32:44Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
