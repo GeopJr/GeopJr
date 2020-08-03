@@ -26,17 +26,25 @@ GeopJr = {name:      "Vagelis",
 ```
 
 ## 🤹 Recent Activity
-
-<!--GITHUB_ACTIVITY:{"rows": 4, "exclude": ["ForkEvent"]}-->
-
+```
+* ⬆️ Pushed 1 commit to GeopJr/GeopJr
+* ⬆️ Pushed 1 commit to GeopJr/GeopJr
+* ⬆️ Pushed 1 commit to GeopJr/GeopJr
+* ⬆️ Pushed 1 commit to GeopJr/GeopJr
+```
 ## 🌟 Cool Repos
-
-<!--GITHUB_REPOS:{"rows": 4}-->
-
+```
+|*|Stars|Repo|Description|
+|---|---|---|---|
+| 📦 | 19 | [GeopJr/block-revokes-async_wake](https://github.com/GeopJr/block-revokes-async_wake) | Just an ipa for blocking ocsp.apple.com |
+| 📦 | 8 | [GeopJr/Granz-cr](https://github.com/GeopJr/Granz-cr) | A Discord bot/framework(?) written in crystal using discordcr |
+| 📦 | 5 | [GeopJr/matrixcr](https://github.com/GeopJr/matrixcr) | A Work In Progress matrix.org API wrapper for Crystal |
+| 📦 | 4 | [GeopJr/DrKahls-Time-Machine](https://github.com/GeopJr/DrKahls-Time-Machine) | An online Cuphead save Editor |
+```
 ------------
 <p align="center">
   Last refresh: 
-  <b><!--TIMESTAMP--></b>
+  <b>2020-08-03T15:22:51Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
