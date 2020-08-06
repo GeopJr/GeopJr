@@ -28,10 +28,10 @@ GeopJr = {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 2 commits to GeopJr/matrixcr
-⬆️ Pushed 1 commit to GeopJr/GeopJr
-⬆️ Pushed 1 commit to GeopJr/GeopJr
-⬆️ Pushed 1 commit to GeopJr/GeopJr
+⬆️ Pushed 1 commit to GeopJr/Granz-cr
+⬆️ Pushed 1 commit to GeopJr/Granz-cr
+⬆️ Pushed 1 commit to GeopJr/Granz-cr
+⬆️ Pushed 1 commit to GeopJr/Granz-cr
 ```
 ## 🌟 Cool Repos
 ```
@@ -43,7 +43,7 @@ GeopJr = {
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-05T00:03:30Z</b>
+  <b>2020-08-06T00:03:04Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
