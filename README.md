@@ -28,8 +28,8 @@ GeopJr = {
 
 ## 🤹 Recent Activity
 ```
+❗️ Opened issue #2 in Yimura/node-ytdl-gui
 ⬆️ Pushed 1 commit to GeopJr/orangefox_device_xiaomi_davinci
-⬆️ Pushed 1 commit to GeopJr/Granz-cr
 ⬆️ Pushed 1 commit to GeopJr/Granz-cr
 ⬆️ Pushed 1 commit to GeopJr/Granz-cr
 ```
@@ -43,7 +43,7 @@ GeopJr = {
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-14T00:03:02Z</b>
+  <b>2020-08-15T00:02:52Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
