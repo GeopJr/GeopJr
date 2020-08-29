@@ -28,10 +28,10 @@ GeopJr = {
 
 ## 🤹 Recent Activity
 ```
-📦 Released "v1.0.8" in GeopJr/action-accessibility
-⬆️ Pushed 1 commit to GeopJr/action-accessibility
-⬆️ Pushed 1 commit to GeopJr/action-accessibility
-❗️ Opened issue #9938 in forem/forem
+⬆️ Pushed 1 commit to GeopJr/GeopJr.github.io
+⬆️ Pushed 1 commit to GeopJr/GeopJr.github.io
+⬆️ Pushed 1 commit to GeopJr/GeopJr.github.io
+⬆️ Pushed 2 commits to GeopJr/GeopJr.github.io
 ```
 ## 🌟 Cool Repos
 ```
@@ -43,7 +43,7 @@ GeopJr = {
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-28T00:03:59Z</b>
+  <b>2020-08-29T00:01:39Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
