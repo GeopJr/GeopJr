@@ -31,7 +31,7 @@ GeopJr = {
 ⬆️ Pushed 1 commit to GeopJr/GeopJr.github.io
 ⬆️ Pushed 1 commit to GeopJr/GeopJr.github.io
 ⬆️ Pushed 1 commit to GeopJr/GeopJr.github.io
-⬆️ Pushed 2 commits to GeopJr/GeopJr.github.io
+⬆️ Pushed 1 commit to GeopJr/GeopJr.github.io
 ```
 ## 🌟 Cool Repos
 ```
@@ -43,7 +43,7 @@ GeopJr = {
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-09-03T00:03:50Z</b>
+  <b>2020-09-04T00:03:37Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
