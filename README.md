@@ -28,10 +28,10 @@ GeopJr = {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to GeopJr/GeopJr.github.io
-⬆️ Pushed 1 commit to GeopJr/GeopJr.github.io
-⬆️ Pushed 1 commit to GeopJr/GeopJr.github.io
-⬆️ Pushed 1 commit to GeopJr/GeopJr.github.io
+⬆️ Pushed 1 commit to GeopJr/discordcr
+⬆️ Pushed 1 commit to GeopJr/discordcr
+⬆️ Pushed 2 commits to GeopJr/discordcr.rocks
+⬆️ Pushed 1 commit to GeopJr/discordcr.rocks
 ```
 ## 🌟 Cool Repos
 ```
@@ -43,7 +43,7 @@ GeopJr = {
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-09-19T00:04:19Z</b>
+  <b>2020-09-20T00:04:00Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
