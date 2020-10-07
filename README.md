@@ -28,10 +28,10 @@ GeopJr = {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to GeopJr/tankionline.js
-🎉 Merged PR #5 in GeopJr/tankionline.js
-🗣 Commented on #5 in GeopJr/tankionline.js
-💪 Opened PR #10 in flathub/network.loki.Session
+⬆️ Pushed 1 commit to GeopJr/action-accessibility
+🎉 Merged PR #13 in GeopJr/action-accessibility
+📦 Released "v1.2.0" in GeopJr/Crycord
+⬆️ Pushed 1 commit to GeopJr/Crycord
 ```
 ## 🌟 Cool Repos
 ```
@@ -43,7 +43,7 @@ GeopJr = {
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-10-06T00:04:22Z</b>
+  <b>2020-10-07T00:04:23Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
