@@ -28,10 +28,10 @@ GeopJr = {
 
 ## 🤹 Recent Activity
 ```
-❌ Closed PR #2 in Bootleggers-BrokenLab/frameworks_av
-❌ Closed PR #8 in Bootleggers-BrokenLab/frameworks_base
-❌ Closed PR #7 in Bootleggers-BrokenLab/frameworks_base
-⬆️ Pushed 1 commit to GeopJr/action-accessibility
+⬆️ Pushed 1 commit to GeopJr/discordcr
+🗣 Commented on #2150 in discord/discord-api-docs
+💪 Opened PR #2150 in discord/discord-api-docs
+⬆️ Pushed 1 commit to GeopJr/discord-api-docs
 ```
 ## 🌟 Cool Repos
 ```
@@ -43,7 +43,7 @@ GeopJr = {
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-10-14T00:04:17Z</b>
+  <b>2020-10-15T00:04:19Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
