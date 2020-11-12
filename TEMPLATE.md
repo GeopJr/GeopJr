@@ -13,7 +13,7 @@ GeopJr = {
   languages: ["C", "Crystal", "Elixir", "HTML", "JavaScript", "Obj-C", "PHP", "Ruby"],
   website:   "https://geopjr.xyz/",
   social:    {
-    discord:  "『Geop』#4066",
+    discord:  "GeopJr#4066",
     keybase:  "keybase.io/geopjr",
     mastodon: "@GeopJr@tech.lgbt",
     matrix:   "@geopjr:matrix.org",
