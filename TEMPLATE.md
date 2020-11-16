@@ -22,7 +22,7 @@ GeopJr = {
     steam:    "steamcommunity.com/id/geopjunior",
     telegram: "@GeopJr",
     twitter:  "@Geop_Junior",
-  },
+  }
 }
 ```
 
