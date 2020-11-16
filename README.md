@@ -22,16 +22,16 @@ GeopJr = {
     steam:    "steamcommunity.com/id/geopjunior",
     telegram: "@GeopJr",
     twitter:  "@Geop_Junior",
-  },
+  }
 }
 ```
 
 ## 🤹 Recent Activity
 ```
 ⬆️ Pushed 1 commit to GeopJr/GeopJr
+⬆️ Pushed 1 commit to GeopJr/GeopJr
 ⬆️ Pushed 1 commit to GeopJr/network.loki.Session
 🗣 Commented on #12 in flathub/network.loki.Session
-💪 Opened PR #12 in flathub/network.loki.Session
 ```
 ## 🌟 Cool Repos
 ```
@@ -43,7 +43,7 @@ GeopJr = {
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-11-16T00:03:27Z</b>
+  <b>2020-11-16T11:40:40Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
