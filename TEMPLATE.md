@@ -9,7 +9,7 @@
 ```crystal
 GeopJr = {
   name:      "Vagelis",
-  pronouns:  "he/him",
+  pronouns:  "he/they",
   languages: ["C", "Crystal", "Elixir", "HTML", "JavaScript", "Obj-C", "PHP", "Ruby"],
   website:   "https://geopjr.xyz/",
   social:    {
