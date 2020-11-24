@@ -9,7 +9,7 @@
 ```crystal
 GeopJr = {
   name:      "Vagelis",
-  pronouns:  "he/him",
+  pronouns:  "he/they",
   languages: ["C", "Crystal", "Elixir", "HTML", "JavaScript", "Obj-C", "PHP", "Ruby"],
   website:   "https://geopjr.xyz/",
   social:    {
@@ -28,10 +28,10 @@ GeopJr = {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to GeopJr/GeopJr
 ⬆️ Pushed 1 commit to GeopJr/action-accessibility
 🎉 Merged PR #24 in GeopJr/action-accessibility
 ⬆️ Pushed 4 commits to GeopJr/node-ytdl-gui
-⬆️ Pushed 1 commit to GeopJr/node-ytdl-gui
 ```
 ## 🌟 Cool Repos
 ```
@@ -43,7 +43,7 @@ GeopJr = {
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-11-24T00:03:32Z</b>
+  <b>2020-11-24T22:00:34Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
