@@ -28,10 +28,10 @@ GeopJr = {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 2 commits to GeopJr/network.loki.Session
-💪 Opened PR #13 in flathub/network.loki.Session
-⬆️ Pushed 1 commit to GeopJr/GeopJr
-⬆️ Pushed 1 commit to GeopJr/action-accessibility
+⬆️ Pushed 1 commit to GeopJr/shrp-theme-builder-web
+⬆️ Pushed 1 commit to GeopJr/shrp-theme-builder-web
+⬆️ Pushed 18 commits to GeopJr/orangefox_device_xiaomi_davinci
+⬆️ Pushed 1 commit to GeopJr/shrp-theme-builder-web
 ```
 ## 🌟 Cool Repos
 ```
@@ -43,7 +43,7 @@ GeopJr = {
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-12-02T00:03:55Z</b>
+  <b>2020-12-03T00:03:55Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
