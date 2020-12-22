@@ -28,10 +28,10 @@ GeopJr = {
 
 ## 🤹 Recent Activity
 ```
-💪 Opened PR #17 in flathub/network.loki.Session
-🗣 Commented on #1378 in loki-project/session-desktop
-📦 Released "0.1.0" in GeopJr/Crycord-GUI
-⬆️ Pushed 1 commit to GeopJr/Crycord-GUI
+💪 Opened PR #4 in shardlab/discordcr
+⬆️ Pushed 1 commit to GeopJr/action-accessibility
+🎉 Merged PR #27 in GeopJr/action-accessibility
+⬆️ Pushed 1 commit to SHRP/shrp-theme-builder-web
 ```
 ## 🌟 Cool Repos
 ```
@@ -43,7 +43,7 @@ GeopJr = {
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-12-21T00:07:08Z</b>
+  <b>2020-12-22T00:08:59Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
