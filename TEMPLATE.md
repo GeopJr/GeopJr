@@ -10,7 +10,7 @@
 GeopJr = {
   name:      "Vagelis",
   pronouns:  "he/they",
-  languages: ["C", "Crystal", "Elixir", "HTML", "JavaScript", "Obj-C", "PHP", "Ruby"],
+  languages: ["C", "Crystal", "Elixir", "JavaScript", "Obj-C", "PHP", "Ruby"],
   website:   "https://geopjr.xyz/",
   social:    {
     discord:  "GeopJr#4066",
@@ -18,7 +18,7 @@ GeopJr = {
     mastodon: "@GeopJr@tech.lgbt",
     matrix:   "@geopjr:matrix.org",
     email:    "geopjr@geopjr.xyz",
-    session:  "058cf74db0d91a2815a7f4be691f62827703501a3a78898a1cacd0916ff16f383f",
+    session:  "Ask me (changes often)",
     steam:    "steamcommunity.com/id/geopjunior",
     telegram: "@GeopJr",
     twitter:  "@Geop_Junior",
