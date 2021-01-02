@@ -10,7 +10,7 @@
 GeopJr = {
   name:      "Vagelis",
   pronouns:  "he/they",
-  languages: ["C", "Crystal", "Elixir", "HTML", "JavaScript", "Obj-C", "PHP", "Ruby"],
+  languages: ["C", "Crystal", "Elixir", "JavaScript", "Obj-C", "PHP", "Ruby"],
   website:   "https://geopjr.xyz/",
   social:    {
     discord:  "GeopJr#4066",
@@ -18,7 +18,7 @@ GeopJr = {
     mastodon: "@GeopJr@tech.lgbt",
     matrix:   "@geopjr:matrix.org",
     email:    "geopjr@geopjr.xyz",
-    session:  "058cf74db0d91a2815a7f4be691f62827703501a3a78898a1cacd0916ff16f383f",
+    session:  "Ask me (changes often)",
     steam:    "steamcommunity.com/id/geopjunior",
     telegram: "@GeopJr",
     twitter:  "@Geop_Junior",
@@ -28,7 +28,7 @@ GeopJr = {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to GeopJr/argyle
+⬆️ Pushed 1 commit to GeopJr/GeopJr
 ⬆️ Pushed 1 commit to GeopJr/argyle
 ⬆️ Pushed 1 commit to GeopJr/argyle
 ⬆️ Pushed 1 commit to GeopJr/argyle
@@ -43,7 +43,7 @@ GeopJr = {
 ------------
 <p align="center">
   Last refresh: 
-  <b>2021-01-02T00:13:05Z</b>
+  <b>2021-01-02T03:38:18Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
