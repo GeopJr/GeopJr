@@ -28,9 +28,9 @@ GeopJr = {
 
 ## 🤹 Recent Activity
 ```
-💪 Opened PR #4 in hackropolis/website
-⬆️ Pushed 1 commit to GeopJr/GeopJr
-⬆️ Pushed 1 commit to GeopJr/argyle
+⬆️ Pushed 1 commit to hackropolis/website
+💪 Opened PR #6 in hackropolis/website
+⬆️ Pushed 1 commit to hackropolis/website
 ⬆️ Pushed 1 commit to GeopJr/argyle
 ```
 ## 🌟 Cool Repos
@@ -43,7 +43,7 @@ GeopJr = {
 ------------
 <p align="center">
   Last refresh: 
-  <b>2021-01-04T00:15:16Z</b>
+  <b>2021-01-05T00:15:29Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222">
