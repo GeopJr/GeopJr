@@ -20,10 +20,10 @@ GeopJr = {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to GeopJr/GeopJr
 ⬆️ Pushed 1 commit to GeopJr/argyle
 🎉 Merged PR #18 in GeopJr/argyle
 ⬆️ Pushed 1 commit to GeopJr/GeopJr
-⬆️ Pushed 1 commit to GeopJr/MarketVSX
 ```
 ## 🌟 Cool Repos
 ```
@@ -35,16 +35,12 @@ GeopJr = {
 
 ## 📚 Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💖 [Argyle: An offline collection of online tools](https://dev.to/geopjr/argyle-an-offline-collection-of-online-tools-2401)
- - 🦄 [Creating fast GUIs with Crystal, GTK and Glade](https://dev.to/geopjr/creating-fast-guis-with-crystal-gtk-and-glade-en6)
- - 💖 [Sticker-debate: For those who have too many stickers](https://dev.to/geopjr/sticker-debate-for-those-who-have-too-many-stickers-46ba)
- - 🦄 [Injecting electron apps with Crystal](https://dev.to/geopjr/injecting-electron-apps-with-crystal-4nlk)
- - 💖 [Action-Accessibility: A GitHub action for those in need](https://dev.to/geopjr/action-accessibility-a-github-action-for-those-in-need-hg7)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ------------
 <p align="center">
   Last refresh: 
-  <b>2021-01-28T00:19:06Z</b>
+  <b>2021-01-29T00:17:41Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&hide=issues">
