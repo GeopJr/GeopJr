@@ -41,7 +41,7 @@ GeopJr = {
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geopjr&theme=chalk&row=2&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA" alt="awards" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geopjr&theme=chalk&row=2&column=5&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA" alt="awards" /></a>
 </p>
 
 <p align="center">
