@@ -39,14 +39,9 @@ GeopJr = {
 
 ------------
 <p align="center">
-    <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&hide=issues&count_private=true&hide_rank=true">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=geopjr&show_icons=true&locale=en&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&langs_count=10&hide=html,makefile" alt="languages" />
-</p>
-
-------------
-<br />
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geopjr&theme=chalk&row=1&column=5&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA" alt="awards" /></a>
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&hide=issues&count_private=true&hide_rank=true"><br />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geopjr&theme=chalk&row=1&column=5&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA" alt="awards" /></a><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geopjr&show_icons=true&locale=en&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&langs_count=10&hide=html,makefile" alt="languages" />
 </p>
 
 ------------
