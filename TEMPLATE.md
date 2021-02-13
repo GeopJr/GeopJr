@@ -18,10 +18,6 @@ GeopJr = {
 }
 ```
 
-## 🤹 Recent Activity
-```
-<!--GITHUB_ACTIVITY:{"rows": 4, "exclude": ["ForkEvent"], "raw": true}-->
-```
 ## 🌟 Cool Repos
 ```
 <!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
@@ -30,12 +26,6 @@ GeopJr = {
 ## 📚 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-------------
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
 
 ------------
 <p align="center">
