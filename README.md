@@ -18,34 +18,17 @@ GeopJr = {
 }
 ```
 
-## 🤹 Recent Activity
-```
-⬆️ Pushed 1 commit to GeopJr/DNOME
-⬆️ Pushed 1 commit to GeopJr/Hashbrown
-⬆️ Pushed 1 commit to flathub/dev.geopjr.Hashbrown
-📦 Released "v1.0.3" in GeopJr/Hashbrown
-```
 ## 🌟 Cool Repos
 ```
 ⭐️ 19 📦 GeopJr/block-revokes-async_wake
-⭐️ 9  📦 GeopJr/DNOME
+⭐️ 10 📦 GeopJr/DNOME
 ⭐️ 8  📦 GeopJr/Granz-cr
 ⭐️ 6  📦 GeopJr/Crycord
 ```
 
 ## 📚 Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💖 [VSCodium & upgrading the extension experience](https://dev.to/geopjr/vscodium-upgrading-the-extension-experience-1ko0)
- - 🦄 [Argyle: An offline collection of online tools](https://dev.to/geopjr/argyle-an-offline-collection-of-online-tools-2401)
- - 💖 [Creating fast GUIs with Crystal, GTK and Glade](https://dev.to/geopjr/creating-fast-guis-with-crystal-gtk-and-glade-en6)
- - 🦄 [Sticker-debate: For those who have too many stickers](https://dev.to/geopjr/sticker-debate-for-those-who-have-too-many-stickers-46ba)
- - 💖 [Injecting electron apps with Crystal](https://dev.to/geopjr/injecting-electron-apps-with-crystal-4nlk)<!-- BLOG-POST-LIST:END -->
-
-------------
-<p align="center">
-  Last refresh: 
-  <b>2021-02-13T00:12:51Z</b>
-</p>
+<!-- BLOG-POST-LIST:END -->
 
 ------------
 <p align="center">
