@@ -1,3 +1,5 @@
+<img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&hide=issues&count_private=true&hide_rank=true"><br />
+
 ```crystal
 GeopJr = {
   name:      "Evan",
@@ -18,6 +20,8 @@ GeopJr = {
 }
 ```
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=geopjr&show_icons=true&locale=en&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&langs_count=10&hide=html,makefile" alt="languages" />
+
 ## 🌟 Cool Repos
 ```
 ⭐️ 19 📦 GeopJr/block-revokes-async_wake
@@ -28,17 +32,11 @@ GeopJr = {
 
 ## 📚 Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💖 [VSCodium & upgrading the extension experience](https://dev.to/geopjr/vscodium-upgrading-the-extension-experience-1ko0)
- - 🦄 [Argyle: An offline collection of online tools](https://dev.to/geopjr/argyle-an-offline-collection-of-online-tools-2401)
- - 💖 [Creating fast GUIs with Crystal, GTK and Glade](https://dev.to/geopjr/creating-fast-guis-with-crystal-gtk-and-glade-en6)
- - 🦄 [Sticker-debate: For those who have too many stickers](https://dev.to/geopjr/sticker-debate-for-those-who-have-too-many-stickers-46ba)
- - 💖 [Injecting electron apps with Crystal](https://dev.to/geopjr/injecting-electron-apps-with-crystal-4nlk)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ------------
 <p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&hide=issues&count_private=true&hide_rank=true"><br />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geopjr&theme=chalk&row=1&column=5&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA" alt="awards" /></a><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geopjr&show_icons=true&locale=en&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&langs_count=10&hide=html,makefile" alt="languages" />
 </p>
 
 ------------
