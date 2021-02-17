@@ -1,5 +1,3 @@
-<img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&hide=issues&count_private=true&hide_rank=true"><br />
-
 ```crystal
 GeopJr = {
   name:      "Evan",
@@ -20,12 +18,14 @@ GeopJr = {
 }
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=geopjr&show_icons=true&locale=en&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&langs_count=10&hide=html,makefile" alt="languages" />
+<img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=GeopJr&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&hide=issues&count_private=true&hide_rank=true">
 
 ## 🌟 Cool Repos
 ```
 <!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
 ```
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=geopjr&show_icons=true&locale=en&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&langs_count=10&hide=html,makefile" alt="languages" />
 
 ## 📚 Blog Posts
 <!-- BLOG-POST-LIST:START -->
