@@ -28,6 +28,6 @@ jobs:
     - uses: gautamkrishnar/blog-post-workflow@master
       with:
         feed_list: "https://dev.to/feed/geopjr"
-        template: "$newline - $randomEmoji(💖,🦄,🔖) [$title]($url)"
+        template: "$newline - $randomEmoji(💖,🦄,🔖,🔖) [$title]($url)"
         gh_token: ${{ secrets.TOKEN }}
         commit_message: "Updated with the latest blog posts [stop]"
