@@ -3,13 +3,13 @@ GeopJr = {
   name:      "Evan",
   pronouns:  "he/they",
   languages: ["C", "Crystal", "Elixir", "JavaScript", "Obj-C", "PHP", "Ruby"],
-  website:   "https://geopjr.xyz/",
+  website:   "https://geopjr.dev/",
   social:    {
     discord:  "GeopJr#4066",
     keybase:  "keybase.io/geopjr",
     mastodon: "@GeopJr@tech.lgbt",
     matrix:   "@geopjr:matrix.org",
-    email:    "geopjr@geopjr.xyz",
+    email:    "evan@geopjr.dev",
     session:  "Ask me (changes often)",
     steam:    "steamcommunity.com/id/geopjunior",
     telegram: "@GeopJr",
@@ -32,11 +32,7 @@ GeopJr = {
 
 ## 📚 Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💖 [VSCodium & upgrading the extension experience](https://dev.to/geopjr/vscodium-upgrading-the-extension-experience-1ko0)
- - 🔖 [Argyle: An offline collection of online tools](https://dev.to/geopjr/argyle-an-offline-collection-of-online-tools-2401)
- - 💖 [Creating fast GUIs with Crystal, GTK and Glade](https://dev.to/geopjr/creating-fast-guis-with-crystal-gtk-and-glade-en6)
- - 🔖 [Sticker-debate: For those who have too many stickers](https://dev.to/geopjr/sticker-debate-for-those-who-have-too-many-stickers-46ba)
- - 💖 [Injecting electron apps with Crystal](https://dev.to/geopjr/injecting-electron-apps-with-crystal-4nlk)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ------------
 <p align="center">
