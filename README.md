@@ -32,7 +32,11 @@ GeopJr = {
 
 ## 📚 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - 💖 [Create your own privacy focused pastebin alternative](https://dev.to/geopjr/create-your-own-privacy-focused-pastebin-alternative-2kh3)
+ - 🔖 [VSCodium & upgrading the extension experience](https://dev.to/geopjr/vscodium-upgrading-the-extension-experience-1ko0)
+ - 💖 [Argyle: An offline collection of online tools](https://dev.to/geopjr/argyle-an-offline-collection-of-online-tools-2401)
+ - 🔖 [Creating fast GUIs with Crystal, GTK and Glade](https://dev.to/geopjr/creating-fast-guis-with-crystal-gtk-and-glade-en6)
+ - 💖 [Sticker-debate: For those who have too many stickers](https://dev.to/geopjr/sticker-debate-for-those-who-have-too-many-stickers-46ba)<!-- BLOG-POST-LIST:END -->
 
 ------------
 <p align="center">
