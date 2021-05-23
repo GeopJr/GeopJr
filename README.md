@@ -6,11 +6,10 @@ GeopJr = {
   website:   "https://geopjr.dev/",
   social:    {
     discord:  "GeopJr#4066",
-    keybase:  "keybase.io/geopjr",
     mastodon: "@GeopJr@tech.lgbt",
     matrix:   "@geopjr:matrix.org",
     email:    "evan@geopjr.dev",
-    session:  "Ask me (changes often)",
+    session:  "05f58c2f27458bbc78d976a3ace13c093ed47aae266753e2230f87bfedc2459136",
     steam:    "steamcommunity.com/id/geopjunior",
     telegram: "@GeopJr",
     twitter:  "@Geop_Junior",
@@ -32,11 +31,7 @@ GeopJr = {
 
 ## 📚 Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💖 [Create your own privacy focused pastebin alternative](https://dev.to/geopjr/create-your-own-privacy-focused-pastebin-alternative-2kh3)
- - 🔖 [VSCodium & upgrading the extension experience](https://dev.to/geopjr/vscodium-upgrading-the-extension-experience-1ko0)
- - 💖 [Argyle: An offline collection of online tools](https://dev.to/geopjr/argyle-an-offline-collection-of-online-tools-2401)
- - 🔖 [Creating fast GUIs with Crystal, GTK and Glade](https://dev.to/geopjr/creating-fast-guis-with-crystal-gtk-and-glade-en6)
- - 💖 [Sticker-debate: For those who have too many stickers](https://dev.to/geopjr/sticker-debate-for-those-who-have-too-many-stickers-46ba)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ------------
 <p align="center">
