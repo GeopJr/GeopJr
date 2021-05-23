@@ -6,11 +6,10 @@ GeopJr = {
   website:   "https://geopjr.dev/",
   social:    {
     discord:  "GeopJr#4066",
-    keybase:  "keybase.io/geopjr",
     mastodon: "@GeopJr@tech.lgbt",
     matrix:   "@geopjr:matrix.org",
     email:    "evan@geopjr.dev",
-    session:  "Ask me (changes often)",
+    session:  "05f58c2f27458bbc78d976a3ace13c093ed47aae266753e2230f87bfedc2459136",
     steam:    "steamcommunity.com/id/geopjunior",
     telegram: "@GeopJr",
     twitter:  "@Geop_Junior",
