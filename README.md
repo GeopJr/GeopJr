@@ -22,20 +22,16 @@ GeopJr = {
 ## 🌟 Cool Repos
 ```
 ⭐️ 19 📦 GeopJr/block-revokes-async_wake
+⭐️ 19 📦 GeopJr/SveltePress
 ⭐️ 13 📦 GeopJr/DNOME
 ⭐️ 13 📦 GeopJr/Hashbrown
-⭐️ 9  📦 GeopJr/create-crystal-app
 ```
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=geopjr&show_icons=true&locale=en&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&langs_count=10&hide=html,makefile" alt="languages" />
 
 ## 📚 Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💖 [Packaging your Crystal app into a Flatpak](https://dev.to/geopjr/packaging-your-crystal-app-into-a-flatpak-49bp)
- - 🔖 [Create your own privacy focused pastebin alternative](https://dev.to/geopjr/create-your-own-privacy-focused-pastebin-alternative-2kh3)
- - 💖 [VSCodium & upgrading the extension experience](https://dev.to/geopjr/vscodium-upgrading-the-extension-experience-1ko0)
- - 🔖 [Argyle: An offline collection of online tools](https://dev.to/geopjr/argyle-an-offline-collection-of-online-tools-2401)
- - 💖 [Creating fast GUIs with Crystal, GTK and Glade](https://dev.to/geopjr/creating-fast-guis-with-crystal-gtk-and-glade-en6)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ------------
 <p align="center">
