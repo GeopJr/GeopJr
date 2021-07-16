@@ -21,7 +21,7 @@ GeopJr = {
 
 ## 🌟 Cool Repos
 ```
-⭐️ 27 📦 GeopJr/SveltePress
+⭐️ 28 📦 GeopJr/SveltePress
 ⭐️ 19 📦 GeopJr/block-revokes-async_wake
 ⭐️ 13 📦 GeopJr/DNOME
 ⭐️ 13 📦 GeopJr/Hashbrown
@@ -31,11 +31,7 @@ GeopJr = {
 
 ## 📚 Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💖 [Packaging your Crystal app into a Flatpak](https://dev.to/geopjr/packaging-your-crystal-app-into-a-flatpak-49bp)
- - 🔖 [Create your own privacy focused pastebin alternative](https://dev.to/geopjr/create-your-own-privacy-focused-pastebin-alternative-2kh3)
- - 💖 [VSCodium & upgrading the extension experience](https://dev.to/geopjr/vscodium-upgrading-the-extension-experience-1ko0)
- - 🔖 [Argyle: An offline collection of online tools](https://dev.to/geopjr/argyle-an-offline-collection-of-online-tools-2401)
- - 💖 [Creating fast GUIs with Crystal, GTK and Glade](https://dev.to/geopjr/creating-fast-guis-with-crystal-gtk-and-glade-en6)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ------------
 <p align="center">
