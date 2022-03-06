@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "sponsorkit -w 800 --dir .",
+    "build:wide": "sponsorkit -w 1300 --name sponsors.wide --dir ."
+  },
+  "devDependencies": {
+    "sponsorkit": "latest"
+  }
+}
