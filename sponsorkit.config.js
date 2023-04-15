@@ -7,6 +7,13 @@ presets.xxl = {
   },
 };
 
+presets.largeFix = {
+  ...presets.large,
+  name: {
+    maxLength: 14,
+  },
+};
+
 export default defineConfig({
   github: {
     login: process.env.SPONSORKIT_GITHUB_LOGIN ?? "GeopJr",
@@ -27,7 +34,7 @@ export default defineConfig({
     {
       title: "Silver Sponsors",
       monthlyDollars: 10,
-      preset: presets.large,
+      preset: presets.largeFix,
     },
     {
       title: "Gold Sponsors",
