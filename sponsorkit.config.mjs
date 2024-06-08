@@ -1,14 +1,14 @@
-import { defineConfig, presets } from "sponsorkit";
+import { defineConfig, tierPresets } from "sponsorkit";
 
-presets.xxl = {
-  ...presets.xl,
+tierPresets.xxl = {
+  ...tierPresets.xl,
   avatar: {
     size: 110,
   },
 };
 
-presets.largeFix = {
-  ...presets.large,
+tierPresets.largeFix = {
+  ...tierPresets.large,
   name: {
     maxLength: 14,
   },
@@ -25,31 +25,31 @@ export default defineConfig({
     {
       title: 'Past Sponsors',
       monthlyDollars: -1,
-      preset: presets.xs,
+      preset: tierPresets.xs,
     },
     {
       title: "Backers",
-      preset: presets.base,
+      preset: tierPresets.base,
     },
     {
       title: "Sponsors",
       monthlyDollars: 5,
-      preset: presets.medium,
+      preset: tierPresets.medium,
     },
     {
       title: "Silver Sponsors",
       monthlyDollars: 10,
-      preset: presets.largeFix,
+      preset: tierPresets.largeFix,
     },
     {
       title: "Gold Sponsors",
       monthlyDollars: 25,
-      preset: presets.xl,
+      preset: tierPresets.xl,
     },
     {
       title: "Platinum Sponsors",
       monthlyDollars: 50,
-      preset: presets.xxl,
+      preset: tierPresets.xxl,
     },
   ],
 });
