@@ -63,6 +63,11 @@ export default defineConfig({
     {
       name: 'sponsors.circle',
       renderer: 'circles'
+    },
+    {
+      name: 'sponsors.dark',
+      color: '#fff',
+      svgInlineCSS: `${defineConfig.svgInlineCSS} text {fill:white;font-weight:600;}`
     }
-  ],
+  ]
 });
