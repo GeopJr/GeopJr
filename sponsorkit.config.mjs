@@ -67,7 +67,7 @@ export default defineConfig({
     {
       name: 'sponsors.dark',
       color: '#fff',
-      svgInlineCSS: "text {fill:white;font-weight:600;font-size: 14px;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}.sponsorkit-link {cursor: pointer;}.sponsorkit-tier-title {font-weight: 500;font-size: 20px;}"
+      svgInlineCSS: "text {fill:white;font-weight:300;font-size: 14px;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}.sponsorkit-link {cursor: pointer;}.sponsorkit-tier-title {font-weight: 600;font-size: 20px;}"
     }
   ]
 });
