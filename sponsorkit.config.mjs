@@ -52,4 +52,17 @@ export default defineConfig({
       preset: tierPresets.xxl,
     },
   ],
+  renders: [
+    {
+      name: 'sponsors'
+    },
+    {
+      name: 'sponsors.wide',
+      width: 1200,
+    },
+    {
+      name: 'sponsors.circle',
+      renderer: 'circles'
+    }
+  ],
 });
